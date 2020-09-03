@@ -1,0 +1,11 @@
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/bin/Debug/netcoreapp2.1/MyFirtProjectC-.deps.json
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/bin/Debug/netcoreapp2.1/MyFirtProjectC-.runtimeconfig.json
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/bin/Debug/netcoreapp2.1/MyFirtProjectC-.runtimeconfig.dev.json
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/bin/Debug/netcoreapp2.1/MyFirtProjectC-.dll
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/bin/Debug/netcoreapp2.1/MyFirtProjectC-.pdb
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.csprojAssemblyReference.cache
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.csproj.CoreCompileInputs.cache
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.AssemblyInfoInputs.cache
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.AssemblyInfo.cs
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.dll
+/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/Debug/netcoreapp2.1/MyFirtProjectC-.pdb

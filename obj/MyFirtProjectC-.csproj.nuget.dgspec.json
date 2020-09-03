@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/MyFirtProjectC-.csproj": {}
+  },
+  "projects": {
+    "/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/MyFirtProjectC-.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/MyFirtProjectC-.csproj",
+        "projectName": "MyFirtProjectC-",
+        "projectPath": "/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/MyFirtProjectC-.csproj",
+        "packagesPath": "/home/katerine-perdomo/.nuget/packages/",
+        "outputPath": "/home/katerine-perdomo/Desktop/Practica/MyFirtProjectC-/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/katerine-perdomo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
